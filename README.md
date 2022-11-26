@@ -74,4 +74,4 @@ Amazon has won!
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-The damage of each of the heroes'spells must be devisible by 4 to avoid floating point numbers.
+The damage of each of the heroes'spells must be divisible by 4 to avoid floating point numbers.
