@@ -44,12 +44,8 @@ Health - MaxMana - ManaRegenRate
 4th row (Stronger spell - name, damage and mana cost).
 
 Sample input:
-100 50 5
-120 40 8
-Bash 24
-Whirlwind 44 30
-PowerStrike 28
-LightningArrow 60 20
+100 50 5 | 120 40 8 | Bash 24 | Whirlwind 44 30 | PowerStrike 28 | LightningArrow 60 20 
+('|' means new line in console input)
 
 Sample output:
 ===== Staring turn 1 =====
