@@ -71,3 +71,7 @@ Amazon casting LightningArrow for 20 mana
 Barbarian took 75 damage and is left with -
 35 health 
 Amazon has won!
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+The damage of each of the heroes'spells must be devisible by 4 to avoid floating point numbers.
